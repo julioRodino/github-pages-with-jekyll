@@ -1,6 +1,8 @@
-# Welcome!
+---
+title: "Welcome!"
+---
 
-I'm glad you are here. I plan to store my projects and some personal things in this web. Come on in!
+Glad to see you here. I plan to store my projects and some personal things in this web. Come on in!
 
 ### You may find:
   1. Neuroscience Projects
