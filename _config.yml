@@ -1,10 +1,9 @@
-title: My (You know who I am) Blog
+title: My (You know who I am?) Blog
 author: Julio Rodiño
 email: julio.rodino@ug.uchile.cl
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my personal web page to store projects and other information that
+  I want to share.
 
 # social links
 twitter_username: escx # DO NOT include the @ character, or else the build will fail!
